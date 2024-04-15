@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325179964642",
+    "project_id": "warden-7a639",
+    "storage_bucket": "warden-7a639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325179964642:android:75149928fe663e17b3f2bb",
+        "android_client_info": {
+          "package_name": "com.example.warden_techsecure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325179964642-r8k6fare0334lj6qvn43gja33656kjb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7ZK1GbFjZ6TGioPhEjU3MCpy3tTpxDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325179964642-r8k6fare0334lj6qvn43gja33656kjb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
